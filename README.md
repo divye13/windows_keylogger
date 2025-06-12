@@ -8,11 +8,14 @@ This tool must only be used on systems you own or have permission to test. Unaut
 >Logs all keystrokes using pynput 
 
 >Saves logs to a hidden file in AppData
+
 >Realistic simulation of keylogging behavior
+
 >Includes error handling and file hiding
 
 🛠️ Requirements
 >Python 3.x
+
 >Libraries: pynput
 
 🚀 Usage
@@ -21,6 +24,7 @@ This tool must only be used on systems you own or have permission to test. Unaut
 ⚙️ Convert to Executable
 >pip install pyinstaller
 ?pyinstaller --noconsole --onefile keylogger.py
+
 (Executable will be in the dist/ folder.)
 
 🧪 Test Instructions (Windows)
@@ -32,4 +36,5 @@ This tool must only be used on systems you own or have permission to test. Unaut
    
 🧼 Cleanup
 >Delete .exe, build files, and the log file manually
+
 >Remove Defender exclusion if added
