@@ -21,6 +21,7 @@ This tool must only be used on systems you own or have permission to test. Unaut
 🚀 Usage
 ▶️ Run Script (Directly)
 >python keylogger.py
+
 ⚙️ Convert to Executable
 >pip install pyinstaller
 ?pyinstaller --noconsole --onefile keylogger.py
