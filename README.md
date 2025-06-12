@@ -5,7 +5,8 @@ A simple Windows-based key input logger built with Python, intended strictly for
 This tool must only be used on systems you own or have permission to test. Unauthorized usage may be illegal and unethical.
 
 📁 Features
->Logs all keystrokes using pynput \n
+>Logs all keystrokes using pynput 
+
 >Saves logs to a hidden file in AppData
 >Realistic simulation of keylogging behavior
 >Includes error handling and file hiding
